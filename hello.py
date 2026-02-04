@@ -1,2 +1,3 @@
 print(hello world)
-x =s
+x =10
+print("slaw")
